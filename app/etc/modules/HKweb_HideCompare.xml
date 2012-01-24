@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HKweb_HideCompare>
+			<active>true</active>
+			<codePool>community</codePool>
+		</HKweb_HideCompare>
+	</modules>
+</config>
