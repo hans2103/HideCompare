@@ -1,0 +1,15 @@
+= HideCompare
+
+This extension extends Mage_Catalog_Helper_Product_Compare to hide the Compare option of Magento in the frontend
+
+== Compatibility
+Successfully tested on Community Edition 1.6.x
+Not tested on previous versions. But feel free to do so and inform me so this readme can be updated.
+
+== Installation
+* Download the source code and copy the files in the corresponding Magento folders; 
+* mind that you merge the directories… Do not replace the existing directories. :-)
+* no Magento existing file is modified. 
+
+== Copyright
+Magento HideCompare Extension is licensed under Open Software License ("OSL") v. 3.0
