@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
 	<modules>
-		<HKweb_HideCompare>
+		<Hans2103_HideCompare>
 			<active>true</active>
 			<codePool>community</codePool>
-		</HKweb_HideCompare>
+		</Hans2103_HideCompare>
 	</modules>
 </config>

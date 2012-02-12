@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <config>
 	<modules>
-		<HKweb_HideCompare>
+		<Hans2103_HideCompare>
 			<version>1.0</version>
-		</HKweb_HideCompare>
+		</Hans2103_HideCompare>
 	</modules>
 	<global>
 		<helpers>
 			<catalog>
 				<rewrite>
-					<product_compare>HKweb_HideCompare_Helper_Product_Compare</product_compare>
+					<product_compare>Hans2103_HideCompare_Helper_Product_Compare</product_compare>
 				</rewrite>
 			</catalog>
 		</helpers>

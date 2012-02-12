@@ -1,14 +1,14 @@
 <?php
 /**
- * HKweb hide Compare option on ProductDetailPage
+ * Hans2103 hide Compare option on ProductDetailPage
  *
- * @package     HKweb_HideCompare
- * @author      HKweb (http://www.hkweb.nl/)
- * @copyright   Copyright (c) 2011 HKweb (http://www.hkweb.nl/)
+ * @package     Hans2103_HideCompare
+ * @author      Hans2103 (http://www.Hans2103.nl/)
+ * @copyright   Copyright (c) 2011 Hans2103 (http://www.Hans2103.nl/)
  * @license     Open Software License
  */
  
-class HKweb_HideCompare_Helper_Product_Compare extends Mage_Catalog_Helper_Product_Compare
+class Hans2103_HideCompare_Helper_Product_Compare extends Mage_Catalog_Helper_Product_Compare
 { 
 	/**
 	 * Retrieve url for adding product to conpare list, return false
