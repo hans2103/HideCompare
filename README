@@ -3,7 +3,7 @@
 This extension extends Mage_Catalog_Helper_Product_Compare to hide the Compare option of Magento in the frontend
 
 == Compatibility
-Successfully tested on Community Edition 1.6.x
+Successfully tested on Community Edition 1.6.x, 1.7.x
 Not tested on previous versions. But feel free to do so and inform me so this readme can be updated.
 
 == Installation
