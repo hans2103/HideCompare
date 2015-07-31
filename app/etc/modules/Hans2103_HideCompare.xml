@@ -4,6 +4,9 @@
 		<Hans2103_HideCompare>
 			<active>true</active>
 			<codePool>community</codePool>
+			<depends>
+				<Mage_Catalog/>
+			</depends>
 		</Hans2103_HideCompare>
 	</modules>
 </config>

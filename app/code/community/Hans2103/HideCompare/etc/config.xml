@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<Hans2103_HideCompare>
-			<version>1.0</version>
+			<version>1.0.1</version>
 		</Hans2103_HideCompare>
 	</modules>
 	<global>
@@ -14,4 +14,13 @@
 			</catalog>
 		</helpers>
 	</global>
+	<frontend>
+		<layout>
+			<updates>
+				<wfs_disablecompare>
+					<file>hans2103/hidecompare.xml</file>
+				</wfs_disablecompare>
+			</updates>
+		</layout>
+	</frontend>
 </config>
