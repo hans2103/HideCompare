@@ -1,5 +1,5 @@
 {
-    "name": "hans2103/HideCompare",
+    "name": "hans2103/hidecompare",
     "type": "magento-module",
     "description": "Magento extension to hide the compare function in frontend of Magento",
     "version": "1.0.1",
